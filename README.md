@@ -27,4 +27,4 @@ Then, `velocity_set` will receive  `safety_waypoints` from `aster_avoid` and wor
    6. Velocity Change Limit. The limit of velocity change for avoidance. Reference value: 10 km/h.
    7. Temporal Waypoints Size.
 
-![image-20231025102556240](mdPics/image-20231025102556240.png)
+![image-20231025102556240](image-20231025102556240.png)
